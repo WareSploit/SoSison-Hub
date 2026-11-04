@@ -1,9 +1,0 @@
-{
-  "name": "SoSison-Hub",
-  "tree": {
-    "$className": "DataModel",
-    "ReplicatedStorage": {
-      "$path": "src"
-    }
-  }
-}
