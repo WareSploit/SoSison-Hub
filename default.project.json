@@ -1,0 +1,21 @@
+{
+  "name": "SoSisonHub",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "$className": "ReplicatedStorage",
+      "SoSisonHub": {
+        "$path": "src/ReplicatedStorage/SoSisonHub"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "$className": "StarterPlayerScripts",
+        "SoSisonHub.client.lua": {
+          "$path": "src/StarterPlayer/StarterPlayerScripts/SoSisonHub.client.lua"
+        }
+      }
+    }
+  }
+}
